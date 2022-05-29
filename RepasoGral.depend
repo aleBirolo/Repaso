@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1653764363 source:e:\descargas\1er cuatri 2022\programacion\ejercicios resueltos\c\repasogral\coladinamica.c
+	"cola.h"
+
+1653853039 source:e:\descargas\1er cuatri 2022\programacion\ejercicios resueltos\c\repasogral\main.c
+	"main.h"
+
+1653787571 e:\descargas\1er cuatri 2022\programacion\ejercicios resueltos\c\repasogral\main.h
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	"cola.h"
+	"lista.h"
+
+1653762734 source:e:\descargas\1er cuatri 2022\programacion\ejercicios resueltos\c\repasogral\piladinamica.c
+	"pila.h"
+
+1653785993 e:\descargas\1er cuatri 2022\programacion\ejercicios resueltos\c\repasogral\pila.h
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	"utilitarios.h"
+
+1653789671 e:\descargas\1er cuatri 2022\programacion\ejercicios resueltos\c\repasogral\utilitarios.h
+	<stdlib.h>
+	<memory.h>
+
+1653762971 e:\descargas\1er cuatri 2022\programacion\ejercicios resueltos\c\repasogral\cola.h
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	"utilitarios.h"
+
+1653853406 source:e:\descargas\1er cuatri 2022\programacion\ejercicios resueltos\c\repasogral\lista.c
+	"lista.h"
+
+1653853406 e:\descargas\1er cuatri 2022\programacion\ejercicios resueltos\c\repasogral\lista.h
+	<stdio.h>
+	<stdlib.h>
+	<memory.h>
+	"utilitarios.h"
+
+1653841217 source:e:\descargas\1er cuatri 2022\programacion\ejercicios resueltos\c\repasogral\utilitarios.c
+	"utilitarios.h"
+
